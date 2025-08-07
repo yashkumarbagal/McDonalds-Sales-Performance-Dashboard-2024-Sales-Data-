@@ -9,7 +9,7 @@ This repository contains a Microsoft Excel-based interactive dashboard analyzing
 
 ## 🌟 Dashboard Preview
 
-![Sales Dashboard](Dashboard Image.png)
+![Sales Dashboard](DashboardImage.png)
 
 ---
 
