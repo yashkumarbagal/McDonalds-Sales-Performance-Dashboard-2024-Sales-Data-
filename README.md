@@ -9,14 +9,14 @@ This repository contains a Microsoft Excel-based interactive dashboard analyzing
 
 ## 🌟 Dashboard Preview
 
-![Sales Dashboard](mcdonalds-dashboard-2024.png)
+![Sales Dashboard](Dashboard Image.png)
 
 ---
 
 ## 📁 Files
 
 - `McDonald's Sales 2024 Dashboard using Excel.xlsx` – Full Excel dashboard with visuals and interactivity  
-- `mcdonalds-dashboard-2024.png` – Image preview of the dashboard
+- `Dashboard Image.png` – Image preview of the dashboard
 
 ---
 
